@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../bulbull"
+		},
+		{
+			"path": "../clean"
+		},
+		{
+			"path": "../facebook-scss"
+		},
+		{
+			"path": "../instagram"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "linkedin"
+	}
+}
